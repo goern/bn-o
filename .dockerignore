@@ -1,0 +1,6 @@
+fixtures
+Godeps
+.git
+.gitignore
+.travis.yml
+main.go
